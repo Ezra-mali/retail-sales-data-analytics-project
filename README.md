@@ -213,8 +213,7 @@ Features:
 
 ### Business Insights Dashboard
 
-![Business Insights Dashboard](dashboards/visuals/business_insights.png)
-
+![Business Insights Dashboard](dashboards/visuals/Business%20Insights_dashboard.png)
 Features:
 
 * Sales by Segment
