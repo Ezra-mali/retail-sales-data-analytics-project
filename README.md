@@ -50,6 +50,13 @@ Key variables include:
 
 The dataset contains approximately 9,994 transaction records and 21 variables.
 
+### Dataset Source
+
+The dataset used in this project is the Sample Superstore dataset obtained from Kaggle and is publicaly available.
+
+Dataset Link:
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 ---
 
 ## 5. Methodology (CRISP-DM)
