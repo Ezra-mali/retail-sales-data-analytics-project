@@ -1,4 +1,4 @@
-# retail-sales-data-analytics-project
+
 # Retail Sales Data Analytics Project
 
 ## 1. Project Overview
